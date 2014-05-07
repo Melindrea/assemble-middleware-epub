@@ -1,0 +1,44 @@
+{
+  "name": "assemble-middleware-epub",
+  "description": "Prepares HTML for epub creation",
+  "version": "0.1.0",
+  "homepage": "https://github.com/Melindrea/assemble-middleware-epub",
+  "author": {
+    "name": "Marie Hogebrandt",
+    "email": "iam@mariehogebrandt.se",
+    "url": "http://mariehogebrandt.se",
+    "twitter": "melindrea82",
+    "github": "Melindrea"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Melindrea/assemble-middleware-epub.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Melindrea/assemble-middleware-epub/issues"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/Melindrea/assemble-middleware-epub/blob/master/LICENSE-MIT"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "main": "./index.js",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-jshint": "~0.7.0",
+    "grunt-repos": "~0.1.2",
+    "grunt-mocha-test": "~0.8.1",
+    "grunt-contrib-watch": "~0.5.3",
+    "chai": "~1.8.1",
+    "jit-grunt": "^0.5.0",
+    "grunt-verb": "^0.2.4"
+  },
+  "keywords": [
+    "middleware",
+    "assemble",
+    "assemble middleware",
+    "epub"
+  ]
+}
